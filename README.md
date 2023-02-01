@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @aarblaster
 - 👀 I’m interested in theatre lighting design, photography and all things Mac.
+- 🎓 I teach Lighting Design, Electrics, Programming and Netwokring for theatre at a UK Drama School.
 - 🌱 I’m currently learning Swift and SwiftUI. 
-- 📫 How to reach me I'm @aarblaster on the socials. 
-- 🤖 I'm making MigraineBot an iOS app for people with Migraine to help record symptoms and attack details.
+- 📫 I'm @aarblaster on the socials. 
+- 🤖 I'm making MigraineBot. An iOS app for people with Migraine to help record symptoms and attack details.
 
 <!---
 aarblaster/aarblaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
