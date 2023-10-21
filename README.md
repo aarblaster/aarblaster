@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aarblaster
+- 👋 Hi, I’m Anthony.
 - 👀 I’m interested in theatre lighting design, photography and all things Mac.
 - 🎓 I teach Lighting Design, Electrics, Programming and Networking for theatre at a UK Drama School.
 - 🌱 I’m currently learning Swift and SwiftUI. 
