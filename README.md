@@ -1,8 +1,7 @@
 # 💡Anthony Arblaster
-Lighting Deisgner, sometime coder, Mac nerd, coffee snob. 
-Now in London but from Ngunnawal and Ngambri Country. 🐨
+Lighting Designer, sometime coder, Mac nerd, coffee snob. Now in London but from Ngunnawal and Ngambri Country. 🐨
 
-- 🤖 I make **MigraineBot**, an iOS app for people with migraine, because I didn't like the one I was using. 
+- 🤖 I make **MigraineBot**, an iOS to help track your migraine attacks, because I couldn't find one I liked. 
 - 🌱 I’m learning Swift as I go.
 
 <!---
