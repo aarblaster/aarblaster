@@ -10,4 +10,4 @@ You can find me at:
 * Mastodon: [@aarblaster@mastodonapp.uk](https://mastodonapp.uk/@aarblaster)
 * Lighting Design: [anthonyarblaster.com](https://anthonyarblaster.com)
 * Developer: [codebyanthony.com](https://codebyanthony.com)
-* Support Me: [Ko-Fi](https://ko-fi.com/aarblaster)
+
