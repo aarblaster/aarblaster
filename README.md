@@ -1,5 +1,5 @@
 # 💡[Anthony Arblaster](https://www.anthonyarblaster.com)
-Lighting Designer, sometime coder, Mac nerd, coffee snob. Now in London but from Ngunnawal and Ngambri Country. 🐨
+Lighting Designer, sometime coder, photographer, Mac nerd, coffee snob. Now in London but from Ngunnawal and Ngambri Country. 🐨
 
 * 🤖 I make [MigraineBot](https://codebyanthony.com/migrainebot), an iOS app to help track your migraine attacks, because I couldn't find one I liked. [Download here.](https://apple.co/3eIpkY1)
 * 🌱 I’m learning Swift. It's an ongoing process.
