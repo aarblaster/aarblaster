@@ -4,7 +4,7 @@ Lighting Designer, sometime coder, photographer, Mac nerd, coffee snob. Now in L
 * 🤖 I make [MigraineBot](https://codebyanthony.com/migrainebot), an iOS app to help track your migraine attacks, because I couldn't find one I liked. [Download here.](https://apple.co/3eIpkY1)
 * 🌱 I’m learning Swift. It's an ongoing process.
 * 🎓 I teach people to be Lighting Designers, Electricians and Lighting Programmers at a UK Drama School.
-* 🎭 + 🧑‍💻 is how I spend my days.
+* 🎭 + 🧑‍💻 + 📷 is how I spend my days.
 
 You can find me at:
 * Mastodon: [@aarblaster@mastodonapp.uk](https://mastodonapp.uk/@aarblaster)
