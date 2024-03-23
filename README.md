@@ -10,6 +10,6 @@ You can find me at:
 * Mastodon: [@aarblaster@mastodonapp.uk](https://mastodonapp.uk/@aarblaster)
 * Lighting Design: [anthonyarblaster.com](https://anthonyarblaster.com)
 * Developer: [codebyanthony.com](https://codebyanthony.com)
-* LinkedIn: [anthonyarblaster](www.linkedin.com/in/anthonyarblaster)
+* LinkedIn: [anthonyarblaster](https://linkedin.com/in/anthonyarblaster)
 
 
