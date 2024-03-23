@@ -10,5 +10,5 @@ You can find me at:
 * Mastodon: [@aarblaster@mastodonapp.uk](https://mastodonapp.uk/@aarblaster)
 * Lighting Design: [anthonyarblaster.com](https://anthonyarblaster.com)
 * Developer: [codebyanthony.com](https://codebyanthony.com)
-* Buy photo prints: [aarblasterphoto.com](https://aarblasterphoto.com)
+
 
