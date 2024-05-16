@@ -6,6 +6,6 @@ Theatre lighting designer, sometime coder, photographer, Mac nerd, coffee snob. 
 * 🎓 I teach people to be Lighting Designers, Electricians and Lighting Programmers at a UK Drama School.
 * 🎭 + 🧑‍💻 + 📷 is how I spend my days.
 
-You can find me in [all the usual places.](https://anthonyarblaster.com/linktree) or you can [sponsor me on GitHub.](https://github.com/sponsors/aarblaster)
+You can find me in [all the usual places](https://anthonyarblaster.com/linktree) and you can [sponsor me on GitHub.](https://github.com/sponsors/aarblaster)
 
 
