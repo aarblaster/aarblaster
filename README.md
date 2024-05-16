@@ -7,10 +7,9 @@ Theatre lighting designer, sometime coder, photographer, Mac nerd, coffee snob. 
 * 🎭 + 🧑‍💻 + 📷 is how I spend my days.
 
 You can find me at:
-* Mastodon: [@aarblaster@mastodonapp.uk](https://mastodonapp.uk/@aarblaster)
-* Lighting Design: [anthonyarblaster.com](https://anthonyarblaster.com)
-* Developer: [codebyanthony.com](https://codebyanthony.com)
-* LinkedIn: [anthonyarblaster](https://linkedin.com/in/anthonyarblaster)
-* All the links: [@aarblaster](https://linktr.ee/aarblaster)
+* [Mastodon: @aarblaster@mastodonapp.uk](https://mastodonapp.uk/@aarblaster)
+* [Lighting Design: anthonyarblaster.com](https://anthonyarblaster.com)
+* [Development: codebyanthony.com](https://codebyanthony.com) 
+* [All the links.](https://anthonyarblaster.com/linktree)
 
 
