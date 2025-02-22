@@ -3,7 +3,7 @@ Theatre lighting designer, educator, sometime coder, Mac nerd, coffee snob. Now 
 
 * 🤖 I make apps including:
 	* [MigraineBot](https://codebyanthony.com/migrainebot), an iOS app to help track your migraine attacks. [Download here –>](https://apple.co/3eIpkY1)
-	* [One Night Only](https://codebyanthony.com/onenightonly), an iOS app for touring professionals to trak tour details. [Download it here –>](https://apple.co/3zepvDU)
+	* [One Night Only](https://codebyanthony.com/onenightonly), an iOS app for touring professionals to track tour details. [Download it here –>](https://apple.co/3zepvDU)
 * 🎓 I teach and research theatre lighting.
 * 🎭 + 🧑‍💻 + ☕ is how I spend my days.
 
