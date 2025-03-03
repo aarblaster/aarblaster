@@ -7,6 +7,6 @@ Theatre lighting designer, educator, sometime coder, Mac nerd, coffee snob. Now 
 * 🎓 I teach and research theatre lighting design at [RADA](https://www.rada.ac.uk/about-us/technical-theatre-arts-teaching-staff/anthony-arblaster/).
 * 🎭 + 🧑‍💻 + ☕ is how I spend my days.
 
-You can find me in [all the usual places](https://anthonyarblaster.com/linktree) and you can [sponsor me on GitHub –>](https://github.com/sponsors/aarblaster)
+You can find me in [all the usual places](https://anthonyarblaster.com/linktree) and you can [sponsor me on GitHub →](https://github.com/sponsors/aarblaster)
 
 
