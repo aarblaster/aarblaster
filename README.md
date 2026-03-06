@@ -4,6 +4,7 @@ Theatre lighting designer, educator, sometime coder, Mac nerd, coffee snob. Now 
 * I make some apps including:
 	* [MigraineBot](https://codebyanthony.com/migrainebot), an iOS app to help track your migraine attacks. [Download here →](https://apple.co/3eIpkY1)
 	* [One Night Only](https://codebyanthony.com/onenightonly), an iOS app for touring professionals to track tour details. [Download it here →](https://apple.co/3zepvDU)
+	* [Focus Point](https://codebyanthony.com/focuspoint), an app for touring relighters to make easy to make your lighting focus notes. [Download it here →](https://apps.apple.com/gb/app/focus-point/id6572298702)
 * I teach performance lighting design and technology at [RADA](https://www.rada.ac.uk/about-us/technical-theatre-arts-teaching-staff/anthony-arblaster/).
 * I am a [postgraduate researcher at the University of York](https://www.york.ac.uk/arts-creative-technologies/people/postgraduate-researchers/anthony-arblaster/), researching theatre lighting design and dramaturgy. Find out more about my PhD at [phd.anthonyarblaster.com →](https://phd.anthonyarblaster.com).
 * I light shows, mostly theatre, but also opera and dance. [anthonyarblaster.com](https://anthonyarblaster.com)
