@@ -10,6 +10,6 @@ Theatre lighting designer, educator, sometime coder, Mac nerd, coffee snob. Now 
 * I light shows, mostly theatre, but also opera and dance. [anthonyarblaster.com](https://anthonyarblaster.com)
 * 🎭 + 🧑‍💻 + ☕ is how I spend my days.
 
-You can find me in [all the usual places](https://anthonyarblaster.com/linktree) and you can [sponsor me on GitHub →](https://github.com/sponsors/aarblaster)
+You can find me in [all the usual places](https://anthonyarblaster.com/linktree) and you can [sponsor me on GitHub →](https://github.com/sponsors/aarblaster) 
 
 
