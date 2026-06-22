@@ -1,5 +1,5 @@
 # 💡 Hi, I'm Anthony.
-Theatre lighting designer, educator, sometime coder, Mac nerd, coffee snob. Now in London but from Kamberri/Canberra, Australia.
+Theatre lighting designer, educator, sometime coder. Now in London but from Kamberri/Canberra, Australia.
 
 * I make some apps including:
 	* [MigraineBot](https://codebyanthony.com/migrainebot), an iOS app to help track your migraine attacks. [Download here →](https://apple.co/3eIpkY1)
@@ -10,6 +10,6 @@ Theatre lighting designer, educator, sometime coder, Mac nerd, coffee snob. Now 
 * I light shows, mostly theatre, but also opera and dance. [anthonyarblaster.com](https://anthonyarblaster.com)
 * 🎭 + 🧑‍💻 + ☕ is how I spend my days.
 
-You can find me in [all the usual places](https://anthonyarblaster.com/linktree) and you can [sponsor me on GitHub →](https://github.com/sponsors/aarblaster) 
+You can find me in [all the usual places](https://anthonyarblaster.com/linktree) and you can [sponsor me on GitHub →](https://github.com/sponsors/aarblaster)
 
 
